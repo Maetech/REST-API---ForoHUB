@@ -25,11 +25,11 @@
 ## ▶️ Imagenes del programa
 
 <p> 1) <em> Iniciacion de la API en IntelliJ </em></p>
-<img src=IniciacionAPI width = 800px height = 400px>
+<img src=IniciacionAPI.png width = 800px height = 400px>
 
 <p> 2) <em> Validacion del usuario al momento de registrarse </em></p>
 <p> Se valida que el usuario contenga las mismas credenciales que las guardadas en la base de datos </p>
-<img src=registroUsuario width = 800px height = 400px>
+<img src=registroUsuario.png width = 800px height = 400px>
 
 <p> 3) <em> Generacion de Token.</em> </p>
 <p> Una vez validado el usuario,se devuelve el token para que pueda autenticarse y tener acceso a las demas peticiones de la API </p>
