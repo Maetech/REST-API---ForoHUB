@@ -49,7 +49,7 @@
 
 <p> 6) <em> Respuesta 403 'Forbidden' cuando el token es invalido o nulo </em></p>
 <p> Se regresa una respuesta 403 para indicar que el usuario no tiene las credenciales o accesos correspondientes para autenticarse y usar las peticiones de la API </p>
-<img src=validacionTokenInvalido.png width = 800px height = 400px>
+<img src=ValidacionTokenInvalido.png width = 800px height = 400px>
 
 <p> 7) <em> Persistencia de las peticiones y usuarios dentro de la base de datos </em></p>
 <p> La base de datos guarda las peticiones realizadas a la API para su persistencia </p>
